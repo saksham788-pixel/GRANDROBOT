@@ -1,5 +1,5 @@
 future
-LEGENDX
+Pro coders
 emoji
 beautifulsoup4
 requests
