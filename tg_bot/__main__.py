@@ -146,7 +146,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                    [InlineKeyboardButton(text="ADD 𝐄𝐦𝐦𝐚 TO YOUR GROUP",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Source Code",
-                                                                       url="https://github.com/Sak_Anya/EmmaAGroup_bot")]
+                                                                       url="https://github.com/Sak_Anya/EmmaAGroup_bot")
                                                                                  ]]))
 
     else:
