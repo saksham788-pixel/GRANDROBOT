@@ -149,8 +149,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                        url="https://github.com/Sak_Anya/EmmaAGroup_bot")
                                                                                     InlineKeyboardButton(text="Networks support",
                                                                        url="t.me/ELITES_NETWORK")
-                                                                                                      
-                                                                                                                         ]]))
+                                                                                 ]]))
 
     else:
         update.effective_message.reply_text("Tell me a service ,I am alive")
