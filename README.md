@@ -4,11 +4,14 @@
 
  [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
 [.](https://heroku.com/deploy) 
-Credits - [Saksham sharma](https://t.me/Sak_Anya)
+
+ <h3>Developer <h3/>
+[Saksham sharma](https://t.me/Sak_Anya)
            
 
 # TELEGRAM
 Check me on [TELEGRAM](https://t.me/emmaAgroup_bot)
+
 # TUTORIAL [OFFICIAL VIDEO](https://youtu.be/JK9cLTDZUR0)
 
 <details>
