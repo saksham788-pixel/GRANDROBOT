@@ -1,4 +1,4 @@
-# Emma Robot
+<h1> Emma Robot <h1/>
 
 DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
 [.](https://heroku.com/deploy)
@@ -16,3 +16,11 @@ Check me on [TELEGRAM](https://t.me/emmaAgroup_bot)
 <h1> TEAMLEGEND </h1>
 <h1> SAKSHAM SHARMA </h1>
 </details>
+
+# About forking 
+
+You wanna fork and get your name on the repo... Go ahead
+Mene bhi vhi kiya hai😂...but do not forget to keep credits.
+
+
+Made with love care and hands.... 💖
